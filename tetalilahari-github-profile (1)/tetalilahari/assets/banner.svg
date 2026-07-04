@@ -1,0 +1,65 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F2027"/>
+      <stop offset="50%" stop-color="#203A43"/>
+      <stop offset="100%" stop-color="#2C5364"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="100%" stop-color="#8957e5"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="85%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#glow)"/>
+
+  <!-- floating code-bracket motif -->
+  <text x="980" y="150" font-family="'Consolas','Fira Code',monospace" font-size="130" fill="#ffffff" opacity="0.06" font-weight="700">&lt;/&gt;</text>
+
+  <!-- scattered dots -->
+  <g opacity="0.2" fill="#ffffff">
+    <circle cx="60" cy="40" r="2"/>
+    <circle cx="120" cy="80" r="2"/>
+    <circle cx="1140" cy="260" r="2"/>
+    <circle cx="1080" cy="220" r="2"/>
+    <circle cx="90" cy="240" r="2"/>
+    <circle cx="1100" cy="60" r="2"/>
+    <circle cx="950" cy="240" r="2"/>
+    <circle cx="1000" cy="45" r="2"/>
+  </g>
+
+  <rect x="0" y="0" width="10" height="300" fill="url(#accent)"/>
+
+  <text x="60" y="115" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff">
+    Tetali Lakshmi Nagalahari
+  </text>
+
+  <text x="60" y="158" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" fill="#8dbdff">
+    Software Engineer &#183; Full Stack Developer &#183; AI/ML Enthusiast
+  </text>
+
+  <line x1="60" y1="178" x2="360" y2="178" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+
+  <g font-family="'Consolas', 'Fira Code', monospace" font-size="17" fill="#c9d1d9">
+    <rect x="60" y="205" width="88" height="34" rx="17" fill="#161b22" stroke="#58A6FF"/>
+    <text x="80" y="228">React</text>
+
+    <rect x="160" y="205" width="98" height="34" rx="17" fill="#161b22" stroke="#58A6FF"/>
+    <text x="180" y="228">Python</text>
+
+    <rect x="270" y="205" width="110" height="34" rx="17" fill="#161b22" stroke="#58A6FF"/>
+    <text x="290" y="228">FastAPI</text>
+
+    <rect x="392" y="205" width="120" height="34" rx="17" fill="#161b22" stroke="#8957e5"/>
+    <text x="412" y="228">AI / ML</text>
+  </g>
+
+  <text x="60" y="272" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#8b949e">
+    github.com/tetalilahari
+  </text>
+</svg>
