@@ -155,30 +155,34 @@ Built during the Infosys Springboard Internship.
 
 | Degree | Institution | Score |
 |---|---|---|
-| B.Tech, Computer Science Engineering | _Add your college name_ | CGPA: **9.46** |
+| B.Tech, Computer Science Engineering (2023 – 2027) | Shri Vishnu Engineering College For Women, Bhimavaram | CGPA: **9.46 / 10** |
+| Intermediate Education (2023) | Sasi Junior College, Tanuku | **98.9%** |
+| Secondary Education (2021) | Sri Chaitanya School, Penugonda | GPA: **10 / 10** |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:8957e5&height=3&section=header" width="100%"/>
 
 ## 🏆 Achievements
 
-<details>
+<details open>
 <summary>Click to expand</summary>
 <br/>
 
-- 🏅 _Add your achievement_
-- 🏅 _Add your achievement_
+- 🏅 **VisionX Paper Presentation (2025)** — Presented the paper *"Generative AI in Healthcare: Faster Drugs, Smarter Diagnosis"* at the technical symposium organized by Shri Vishnu Engineering College for Women.
+- 🏅 **Google Solution Challenge (2025)** — Participated under Google Developer Group at SVECW.
+- 🏅 **UI/UX Contest (2024)** — Participated under Google Developer Group at SVECW.
 
 </details>
 
 ## 📜 Certifications
 
-<details>
+<details open>
 <summary>Click to expand</summary>
 <br/>
 
-- _Certificate Name 1_
-- _Certificate Name 2_
-- _Certificate Name 3_
+- Introduction to Data Science — Cisco Networking Academy
+- AI Prompt Mastery — Naukri Campus
+- Machine Learning Using Python — Simplilearn
+- Programming Fundamentals using Python — Infosys Springboard
 
 </details>
 
